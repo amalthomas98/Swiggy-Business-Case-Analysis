@@ -1,2 +1,3 @@
 # Swiggy-Business-Case-Analysis
-A comprehensive analysis of Swiggy's performance throughout the year 2019, using Excel, leveraging insights derived from various Session counts, channel traffic details, and other Supporting Data.
+# Description
+This project entails a comprehensive analysis of Swiggy's performance throughout the year 2019, leveraging insights derived from various session counts (listing, menu, cart, payment, and order sessions), channel traffic details, and supporting data encompassing metrics like average discounts, packaging charges, delivery charges, restaurant counts etc.
